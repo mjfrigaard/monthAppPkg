@@ -1,0 +1,19 @@
+Package: monthAppPkg
+Title: An example app-pkg
+Version: 0.0.0.9000
+Author: Jane Doe [aut, cre]
+Maintainer: Jane Doe <Jane.Doeh@email.io>
+Description: A shiny application built inside an R package.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Depends: 
+    R (>= 2.10)
+LazyData: true
+Imports: 
+    pkgload,
+    shiny
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
