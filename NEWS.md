@@ -1,3 +1,3 @@
 # monthAppPkg (development version)
 
-* Initial CRAN submission.
+* run through [whole app game](https://mjfrigaard.github.io/shinyap/whole_game.html) 
